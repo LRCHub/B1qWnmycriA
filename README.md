@@ -1,0 +1,53 @@
+# Avicii – Can't Catch Me
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Papa, he was gone tryna' make a dime
+Mama kept us warm when there was no sunshine
+I was busy building up a reputation
+Did a lot of things out of desperation
+Back up on my feet, got the motivation
+Now I found my feet and a good vibration
+
+Search for you, love of creation
+When you're feeling down in this place, just replace them
+Keep a vision on the one you've been chasin'
+When the time comes we'll run to the station
+We've been laced with the powers of creation
+So when the Sun sets, ya bet ya must face them
+Remember when we were running cross the nation
+We were living for the here and now
+
+You can't catch me
+I'll be gone by the time they come
+You can't catch me
+The war is already won
+Even though the children have sold their guns
+We must remember the fallen ones
+Remember the fallen ones
+
+Raised in the capital of Port-au-Prince
+Born with them pillars in them tenements
+Papa used to run from the immigration
+When we got to the United Station
+A teen under pressure, got to blend in
+Before the guitar I had a to back in
+
+Thanks for you, love of creation
+When you're feeling down in this place, just replace them
+Keep a vision on the one you've been chasin'
+When the time comes we'll run to the station
+We've been laced with the powers of creation
+So when the Sun sets, you bet you must face them
+Remember when we were running across the nation
+We were living for the here and now
+
+You can't catch me
+I'll be gone by the time they come
+You can't catch me
+The war is already won
+Even though the children have sold their guns
+We must remember the fallen ones
+Remember the fallen ones
+```
