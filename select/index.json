@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Can't Catch Me",
+  "base_artist": "Avicii",
+  "createdAt": "2025-12-22T14:07:07.926861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Catch Me",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/01_Can't_Catch_Me_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Catch Me",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/02_Can't_Catch_Me_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can't Catch Me (Live)",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/03_Can't_Catch_Me_(Live)_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Catch Me",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/04_Can't_Catch_Me_Anvil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Can't Catch Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/05_You_Can't_Catch_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Can't Catch Me",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/06_You_Can't_Catch_Me_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Can't Catch Me",
+      "artist": "Chuck Berry",
+      "has_synced": true,
+      "path": "select/07_You_Can't_Catch_Me_Chuck_Berry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Can’t Catch Me",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/08_You_Can’t_Catch_Me_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can’t Catch Me",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/09_Can’t_Catch_Me_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Can't Catch Me",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/10_You_Can't_Catch_Me_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Catch Me",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/11_Can't_Catch_Me_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Can't Catch Me",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/12_You_Can't_Catch_Me_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Can't Catch Me",
+      "artist": "Dave Edmunds",
+      "has_synced": true,
+      "path": "select/13_You_Can't_Catch_Me_Dave_Edmunds.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can't Catch Me",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_Can't_Catch_Me_Avicii.txt"
+    }
+  ]
+}
