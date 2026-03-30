@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Can't Catch Me",
   "base_artist": "Avicii",
-  "createdAt": "2025-12-22T14:07:07.926861Z",
+  "createdAt": "2026-03-30T14:57:34.743984Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,15 @@
       "artist": "Avicii",
       "has_synced": false,
       "path": "select/pl_01_Can't_Catch_Me_Avicii.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Can't Catch Me",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/localdb_01_Can't_Catch_Me_Avicii.txt",
+      "repo_name": "B1qWnmycriA"
     }
   ]
 }
